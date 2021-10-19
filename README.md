@@ -1,2 +1,2 @@
-# MyPro
-This is testing project
+# MyProject
+
